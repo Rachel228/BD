@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bd.mosbett.workers.dev/sitemap.xml
